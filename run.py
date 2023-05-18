@@ -74,12 +74,16 @@ def game_loop():
             nonlocal money
             money = money_increments[current_question]  # Update the money won
             print("---------------------------------------------------")
+            green()
             print("Correct answer! You've won ", money, " $")
+            color_rest()
             print("---------------------------------------------------")
             return True
         else:
             print("---------------------------------------------------")
+            red()
             print("Wrong answer! Game Over!")
+            color_rest()
             print("---------------------------------------------------")
             return False
 

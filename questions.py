@@ -6,8 +6,128 @@ questions = [
         "answer": "b"
     },
     {
-        "question": "What is the capital city of Spain?",
+        "question": "What is the capital city of Sweden?",
         "options": ["a) London", "b) Stockholm", "c) Madrid", "d) Rome"],
-        "answer": "c"
+        "answer": "b"
     },
+    {
+        "question": "What is the capital city of Sweden?",
+        "options": ["a) London", "b) Stockholm", "c) Madrid", "d) Rome"],
+        "answer": "b"
+    },
+    {
+        "question": "What is the capital city of Sweden?",
+        "options": ["a) London", "b) Stockholm", "c) Madrid", "d) Rome"],
+        "answer": "b"
+    },
+    {
+        "question": "What is the capital city of Sweden?",
+        "options": ["a) London", "b) Stockholm", "c) Madrid", "d) Rome"],
+        "answer": "b"
+    },
+    {
+        "question": "What is the capital city of Sweden?",
+        "options": ["a) London", "b) Stockholm", "c) Madrid", "d) Rome"],
+        "answer": "b"
+    },
+    {
+        "question": "What is the capital city of Sweden?",
+        "options": ["a) London", "b) Stockholm", "c) Madrid", "d) Rome"],
+        "answer": "b"
+    },
+    {
+        "question": "What is the capital city of Sweden?",
+        "options": ["a) London", "b) Stockholm", "c) Madrid", "d) Rome"],
+        "answer": "b"
+    },
+    {
+        "question": "What is the capital city of Sweden?",
+        "options": ["a) London", "b) Stockholm", "c) Madrid", "d) Rome"],
+        "answer": "b"
+    },
+    {
+        "question": "What is the capital city of Sweden?",
+        "options": ["a) London", "b) Stockholm", "c) Madrid", "d) Rome"],
+        "answer": "b"
+    },
+    {
+        "question": "What is the capital city of Sweden?",
+        "options": ["a) London", "b) Stockholm", "c) Madrid", "d) Rome"],
+        "answer": "b"
+    },
+    {
+        "question": "What is the capital city of Sweden?",
+        "options": ["a) London", "b) Stockholm", "c) Madrid", "d) Rome"],
+        "answer": "b"
+    },
+    {
+        "question": "What is the capital city of Sweden?",
+        "options": ["a) London", "b) Stockholm", "c) Madrid", "d) Rome"],
+        "answer": "b"
+    },
+    {
+        "question": "What is the capital city of Sweden?",
+        "options": ["a) London", "b) Stockholm", "c) Madrid", "d) Rome"],
+        "answer": "b"
+    },
+    {
+        "question": "What is the capital city of Sweden?",
+        "options": ["a) London", "b) Stockholm", "c) Madrid", "d) Rome"],
+        "answer": "b"
+    },
+    {
+        "question": "What is the capital city of Sweden?",
+        "options": ["a) London", "b) Stockholm", "c) Madrid", "d) Rome"],
+        "answer": "b"
+    },
+    {
+        "question": "What is the capital city of Sweden?",
+        "options": ["a) London", "b) Stockholm", "c) Madrid", "d) Rome"],
+        "answer": "b"
+    },
+    {
+        "question": "What is the capital city of Sweden?",
+        "options": ["a) London", "b) Stockholm", "c) Madrid", "d) Rome"],
+        "answer": "b"
+    },
+    {
+        "question": "What is the capital city of Sweden?",
+        "options": ["a) London", "b) Stockholm", "c) Madrid", "d) Rome"],
+        "answer": "b"
+    },
+    {
+        "question": "What is the capital city of Sweden?",
+        "options": ["a) London", "b) Stockholm", "c) Madrid", "d) Rome"],
+        "answer": "b"
+    },
+    {
+        "question": "What is the capital city of Sweden?",
+        "options": ["a) London", "b) Stockholm", "c) Madrid", "d) Rome"],
+        "answer": "b"
+    },
+    {
+        "question": "What is the capital city of Sweden?",
+        "options": ["a) London", "b) Stockholm", "c) Madrid", "d) Rome"],
+        "answer": "b"
+    },
+    {
+        "question": "What is the capital city of Sweden?",
+        "options": ["a) London", "b) Stockholm", "c) Madrid", "d) Rome"],
+        "answer": "b"
+    },
+    {
+        "question": "What is the capital city of Sweden?",
+        "options": ["a) London", "b) Stockholm", "c) Madrid", "d) Rome"],
+        "answer": "b"
+    },
+    {
+        "question": "What is the capital city of Sweden?",
+        "options": ["a) London", "b) Stockholm", "c) Madrid", "d) Rome"],
+        "answer": "b"
+    },
+    {
+        "question": "What is the capital city of Sweden?",
+        "options": ["a) London", "b) Stockholm", "c) Madrid", "d) Rome"],
+        "answer": "b"
+    }
 ]
