@@ -2,7 +2,7 @@ import random
 import questions
 
 
-# Get player name
+# Get player name function:
 def get_player_name():
     try:
         player_name = input("Enter your name: ")
@@ -16,4 +16,10 @@ def get_player_name():
         print("Invalid input! Please enter"
               "a valid name (up to 10 characters).")
         return get_player_name()
-get_player_name()
+
+
+# wellcoming and ask the player to write his name:
+print("---------------------------------------------------")
+print("Welcome to Who Wants to Be a Millionaire!")
+print("---------------------------------------------------")
+player_name = get_player_name()
