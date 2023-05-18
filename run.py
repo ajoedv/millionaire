@@ -62,6 +62,12 @@ def game_loop():
 
     # Function for handling a single question
     def ask_question(question):
+        def ask_question(question):
+        print("---------------------------------------------------")
+        print(player_name, ":", question["question"])
+        print("---------------------------------------------------")
+        for option in question["options"]:
+            print(option)
         
 
 
