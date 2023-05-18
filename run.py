@@ -51,3 +51,36 @@ def game_loop():
 
     # money increment pattern
     money_increments = [100, 200, 300, 500, 1000, 2000, 4000, 8000,16000, 32000, 64000, 125000, 250000, 500000, 1000000]
+
+    # Function for checking the answer
+    def check_answer(question, user_answer):
+
+
+    # Function for getting user's answer
+    def get_user_answer():
+
+
+    # Function for handling a single question
+    def ask_question(question):
+        
+
+
+        # Get user's answer
+
+
+        # Check if the answer is correct
+    
+
+    # Game loop
+
+
+        # Check if the player becomes a millionaire
+
+
+    # Game ended
+
+
+    # Ask if the player wants to play again
+
+
+game_loop()
