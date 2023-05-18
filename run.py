@@ -58,18 +58,18 @@ def game_loop():
 
     # Function for getting user's answer
     def get_user_answer():
+            user_answer = input("Enter your answer (a, b, c, d): ")
+            return user_answer.lower()
 
 
     # Function for handling a single question
     def ask_question(question):
-        def ask_question(question):
         print("---------------------------------------------------")
         print(player_name, ":", question["question"])
         print("---------------------------------------------------")
         for option in question["options"]:
             print(option)
         
-
 
         # Get user's answer
 
