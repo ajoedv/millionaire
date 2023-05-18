@@ -43,5 +43,6 @@ input("Press Enter to start the game.")
 def game_loop():
     # Initialize variables
     total_questions = len(questions.questions)
+    current_question = 0
 
 
