@@ -54,12 +54,31 @@ def game_loop():
 
     # Function for checking the answer
     def check_answer(question, user_answer):
+        if user_answer.lower() == question["answer"]:
+            nonlocal money
+            money = money_increments[current_question]  # Update the money won
+            print("---------------------------------------------------")
+            print("Correct answer! You've won ", money, " $")
+            print("---------------------------------------------------")
+            return True
+        else:
+            print("---------------------------------------------------")
+            print("Wrong answer! Game Over!")
+            print("---------------------------------------------------")
+            return False
 
 
     # Function for getting user's answer
     def get_user_answer():
+            try:
             user_answer = input("Enter your answer (a, b, c, d): ")
+            if user_answer.lower() not in ['a', 'b', 'c', 'd']:
+                raise ValueError
             return user_answer.lower()
+        except ValueError:
+            print("---------------------------------------------------")
+            print("Invalid input! Please enter a valid option (a, b, c, d).")
+            print("---------------------------------------------------")
 
 
     # Function for handling a single question
