@@ -38,3 +38,7 @@ print("5. If you reach the $1,000,000 question"
       "and answer it correctly, you will become a millionaire!")
 print("---------------------------------------------------")
 input("Press Enter to start the game.")
+
+# The game loop
+def game_loop():
+
