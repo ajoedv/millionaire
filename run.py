@@ -46,3 +46,6 @@ def game_loop():
     current_question = 0
     money = 0
 
+    # Shuffle the questions
+    random.shuffle(questions.questions)
+
